@@ -184,7 +184,7 @@ public class AdapterClass extends RecyclerView.Adapter<AdapterClass.MyClass>
 
                     public void hist()
                     {
-                        
+
                     }
                     dialog.show();
                     dialog.getWindow().setBackgroundDrawableResource(android.R.color.transparent);
